@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ClockK95")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Binary Clock for Corsair K95")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("AASYS Inc.")]
 [assembly: AssemblyProduct("ClockK95")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
